@@ -8,11 +8,7 @@ input[type="button"]{
     font: bold 30px arial, sans-serif;
     color: #f8b4c3;
     margin: 15px;
-    box-shadow: #d491a0 4px 4px 0px;
-    
-    box-shadow: inherit;
-    box-shadow: initial;
-    box-shadow: unset;
+    box-shadow: 4px 4px 0px #d491a0;
 }
 div#voltar{
     text-align: center;
