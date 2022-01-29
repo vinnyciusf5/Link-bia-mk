@@ -21,7 +21,7 @@ img {
     width: 50%;
     }
 
-div#botoes{
+div.container{
     text-align: center;
 }
 
@@ -33,9 +33,13 @@ img#promo1{
     width: 300px;
 }
 
-footer{
-    text-align: center;
+footer#rodape{
+    text-align:justify;
     color: seashell;
     margin: 50px;
-
+}
+footer#rodape2{
+    text-align:center;
+    color: seashell;
+    margin: 50px;
 }
