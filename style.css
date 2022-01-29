@@ -8,7 +8,7 @@ input {
     font: bold 30px arial, sans-serif;
     color: #f8b4c3;
     margin: 15px;
-    box-shadow: #d491a0 4px 4px;
+    box-shadow: #d491a0 4px 4px 4px;
 }
 div#logo{
     text-align: center;
