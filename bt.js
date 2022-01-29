@@ -13,3 +13,7 @@ function promo(){
 function vt(){
     window.location.href='index.html'
 }
+
+function promo1(){
+    window.open('https://api.whatsapp.com/send?phone=5573999891835&text=O MEU PEDIDO É:')
+}

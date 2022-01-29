@@ -25,6 +25,11 @@ div#botoes{
     text-align: center;
 }
 
+div#post{
+    text-align: center;
+    margin: 50px;
+}
+
 footer{
     text-align: center;
     color: seashell;
