@@ -13,6 +13,3 @@ function promo(){
 function vt(){
     window.location.href='index.html'
 }
-function tell(){
-    window.href="73999891835"
-}
