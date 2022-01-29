@@ -14,5 +14,5 @@ function vt(){
     window.location.href='index.html'
 }
 function tell(){
-    window.href="tel:7399989-1835"
+    window.href="73999891835"
 }
