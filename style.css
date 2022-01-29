@@ -2,8 +2,8 @@ body{
     background-color: #111822;
 }
 input {
-    height: 100px;
-    width: 500px;
+    height:60px;
+    width: 300px;
     border-radius: 90px;
     font: bold 30px arial, sans-serif;
     color: #f8b4c3;
@@ -14,10 +14,17 @@ div#logo{
     text-align: center;
 }
 
+img {
+    width: 50%;
+    }
+
 div#botoes{
     text-align: center;
 }
 
 footer{
+    text-align: center;
     color: seashell;
+    margin: 50px;
+
 }
