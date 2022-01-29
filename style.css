@@ -9,6 +9,10 @@ input[type="button"]{
     color: #f8b4c3;
     margin: 15px;
     box-shadow: #d491a0 4px 4px 0px;
+    
+    box-shadow: inherit;
+    box-shadow: initial;
+    box-shadow: unset;
 }
 div#voltar{
     text-align: center;
