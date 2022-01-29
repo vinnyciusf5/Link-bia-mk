@@ -1,0 +1,23 @@
+body{
+    background-color: #111822;
+}
+input {
+    height: 100px;
+    width: 500px;
+    border-radius: 90px;
+    font: bold 30px arial, sans-serif;
+    color: #f8b4c3;
+    margin: 15px;
+    box-shadow: #d491a0 4px 4px;
+}
+div#logo{
+    text-align: center;
+}
+
+div#botoes{
+    text-align: center;
+}
+
+footer{
+    color: seashell;
+}
