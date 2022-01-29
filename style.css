@@ -1,7 +1,7 @@
 body{
     background-color: #111822;
 }
-input{
+input[type="button"]{
     height:60px;
     width: 300px;
     border-radius: 90mm;
