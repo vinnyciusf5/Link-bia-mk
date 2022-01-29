@@ -28,7 +28,9 @@ div#botoes{
 div#post{
     text-align: center;
     margin: 50px;
-    width: 100%;
+}
+img#promo1{
+    width: 300px;
 }
 
 footer{
