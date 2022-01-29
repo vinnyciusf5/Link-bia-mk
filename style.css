@@ -10,6 +10,9 @@ input {
     margin: 15px;
     box-shadow: #d491a0 4px 4px 0px;
 }
+div#voltar{
+    text-align: center;
+}
 div#logo{
     text-align: center;
 }

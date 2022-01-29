@@ -9,3 +9,10 @@ function wz(){
 function promo(){
     window.location.href='promocao.html'
 }
+
+function vt(){
+    window.location.href='index.html'
+}
+function tell(){
+    window.open('(77)98827-4909')
+}
